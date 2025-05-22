@@ -1,6 +1,11 @@
 # 1. Projeto de ouvidoria 
 
-## Lista de requisitos do sistema: ![projeto faculdade](https://github.com/user-attachments/assets/b2abfc2d-d059-4341-8976-13c11def93e5) Item de numero 2 foi removido pelo instrutor.
+## Lista de requisitos do sistema: 
 
-
-
+1. Teste
+2. Teste
+3. Teste
+4. Teste
+5. Teste
+6. Teste
+7. 
