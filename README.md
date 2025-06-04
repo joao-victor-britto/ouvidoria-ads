@@ -1,11 +1,9 @@
-# 1. Projeto de ouvidoria 
+# 1. Projeto de ouvidoria proposto pela faculdade
 
-## Lista de requisitos do sistema: 
-
-1. Teste
-2. Teste
-3. Teste
-4. Teste
-5. Teste
-6. Teste
-7. 
+### Lista de requisitos do sistema:
+- Listagem das Manifestações
+- Criar uma nova Manifestação
+- Exibir quantidade de manifestações
+- Pesquisar uma manifestação por código
+- Excluir uma Manifestação pelo Código
+- Sair do Sistema.
